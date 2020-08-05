@@ -1,0 +1,39 @@
+
+
+  body {
+       background-color: Yellow;
+       margin-left: 10%;
+       margin-right: 10%;
+       border: 6px double Yellow;
+       border-style: solid;
+       background-image: url(Images/danger.jpg);
+       font-size: medium;
+       background-size: contain;
+       background-size: cover;
+       
+      }
+       p { 
+           background-color:black	;
+           text-decoration: underline Yellow;
+           color: Yellow;
+    
+       }
+       
+       
+       blockquote.clown
+       {
+           background-color: black;
+           color: Yellow;  
+       }
+    
+    h1 
+         {
+       
+       font-size: 300%;
+       color:Yellow;
+         }
+    
+   
+   
+    
+  
