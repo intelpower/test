@@ -1,7 +1,7 @@
  @font-face {
-    font-family: cairo;
+    font-family: "cairo";
     src: url(Fonts/Cairo/Cairo-ExtraLight.ttf); 
    }
    body {
-    font-family: cairo;
+    font-family: "cairo";
    }
