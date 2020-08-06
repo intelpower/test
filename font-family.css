@@ -1,6 +1,6 @@
  @font-face {
     font-family: "cairo";
-    src: url(Fonts/Cairo/Cairo-Bold.ttf); 
+    src: url(test/Fonts/Cairo/Cairo-Bold.ttf); 
    }
    body {
     font-family: "cairo";
