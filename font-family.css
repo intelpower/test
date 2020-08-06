@@ -2,6 +2,6 @@
     font-family: "cairo";
     src: url(test/Fonts/Cairo/Cairo-Bold.ttf); 
    }
-   body {
+   body, h1, h2 {
     font-family: "cairo";
    }
