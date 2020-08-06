@@ -1,7 +1,18 @@
- @font-face {
-    font-family: "cairo";
-    src: url(test/Fonts/Cairo/Cairo-Bold.ttf); 
+ body {
+     font-family: fantasy, sans-serif;
+     line-height: 1.5em;
+ }
+   h1 {
+       font-family: fantasy;
+       font-size: 200%;
    }
-   body, h1, h2 {
-    font-family: "cairo";
-   }
+  
+  
+  h2
+    {
+        background-color:black;
+        padding: 10px;
+        font-size: 150%;
+        border-bottom: 3px double Yellow;
+        color: Yellow;
+    }
