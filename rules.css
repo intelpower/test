@@ -13,7 +13,7 @@
        
       }
        p { 
-           background-color:black	;
+           background-color:black;
            text-decoration: underline Yellow;
            color: Yellow;
     
@@ -22,16 +22,21 @@
        
        blockquote.clown
        {
-           background-color: black;
-           color: Yellow;  
+           color: Yellow;
+           background-color:black;
        }
     
     h1 
          {
-       
+       color: Yellow;
+       background-color:black;
        font-size: 300%;
-       
          }
+    h2 {
+      padding: 10px;
+      color: Yellow; 
+      background-color: black;
+}
     #test123 {
       color: red;
       background-color: green;
