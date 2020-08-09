@@ -1,13 +1,13 @@
  @font-face {
-    font-family: 'The-Black-Bloc';
-    src:url(Fonts/Rowdies/'Rowdies-Bold.ttf') format('ttf'),
-        url(Fonts/Rowdies/'Rowdies-Light.ttf') format('ttf'),
-        url(Fonts/Rowdies/'Rowdies-Regular.ttf') format('ttf');
+    font-family: lolkek;
+    src:url(Fonts/Rowdies/Rowdies-Bold.ttf),
+        url(Fonts/Rowdies/Rowdies-Light.ttf),
+        url(Fonts/Rowdies/Rowdies-Regular.ttf);
     font-weight: normal;
     font-style: normal;
 }
 body {
-     font-family: 'The-Black-Bloc';
+     font-family: lolkek;
      line-height: 1.5em;
  }
    h1 {
