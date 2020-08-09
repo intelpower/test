@@ -2,6 +2,11 @@
       color: red;
       background-color: green;
 }
+h2 {
+       color:Yellow;
+       background-color: black;
+       text-decoration: underline Yellow;
+      }
 
   body {
        background-color: Yellow;
@@ -41,9 +46,5 @@
    background-color: black;
    text-decoration: underline Yellow;
    {
-    h2 {
-       color:Yellow;
-       background-color: black;
-       text-decoration: underline Yellow;
-      }
+    
   
