@@ -56,4 +56,6 @@ h2 {
       a:hover {
          color: yellow;
       }
-
+ a:focus {
+    color: white;
+      }
