@@ -1,4 +1,18 @@
-   #test111 h2 {
+   #psevdo1 a:link {
+     color:#007e7e;
+      }
+      #psevdo1 a:hover {
+         color: #0d5353;
+         background-color: #f88396;
+      }
+      #psevdo1 a:visited {
+         color: #333333;
+      }
+ #psevdo1 a:focus {
+    color: green;
+      }
+
+#test111 h2 {
       color: red;
       background-color: green;
 }
@@ -47,16 +61,4 @@ h2 {
    text-decoration: underline Yellow;
    {
     
-    #psevdo1 a:link {
-     color:#007e7e;
-      }
-      #psevdo1 a:hover {
-         color: #0d5353;
-         background-color: #f88396;
-      }
-      #psevdo1 a:visited {
-         color: #333333;
-      }
- #psevdo1 a:focus {
-    color: green;
-      }
+    
