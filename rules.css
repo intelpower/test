@@ -47,15 +47,13 @@ h2 {
    text-decoration: underline Yellow;
    {
     
-  a:link {
-     color: green;
+    #elexirs a:link {
+     color:#007e7e;
       }
-      a:visited {
-         color: red;
+      #elexirs a:hover {
+         color: #0d5353;
+         background-color: #f88396;
       }
-      a:hover {
-         color: yellow;
-      }
- a:focus {
-    color: white;
+      elexirs a:visited {
+         color: #333333;
       }
