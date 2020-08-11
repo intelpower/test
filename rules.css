@@ -1,4 +1,7 @@
-   #psevdo1 a:link {
+  .border {
+     border: 2px dashed;
+}
+#psevdo1 a:link {
      color:#007e7e;
       }
       #psevdo1 a:hover {
