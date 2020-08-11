@@ -57,3 +57,6 @@ h2 {
       #psevdo1 a:visited {
          color: #333333;
       }
+ #psevdo1 a:focus {
+    color: green;
+      }
