@@ -1,7 +1,7 @@
   .border {
      border: 2px dashed;
 }
-#shapka h1 {
+#shapka h1, p {
   border: 6px dashed black;
   padding: 10px;
 }
