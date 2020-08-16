@@ -15,7 +15,7 @@
       #psevdo1 a:hover {
          color: #0d5353;
          background-color: #f88396;
-         text-decoration: none;
+         
       }
       #psevdo1 a:visited {
          color: #333333;
@@ -23,7 +23,7 @@
       }
  #psevdo1 a:focus {
     color: green;
-    text-decoration: none;
+    
       }
 
 #test111 h2 {
