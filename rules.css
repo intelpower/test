@@ -11,7 +11,7 @@
 #psevdo1 a:link {
      color:#007e7e;
      text-decoration: none;
-     border-bottom: thin dotted;
+     border-bottom: thin dotted OrangeRed;
       }
       #psevdo1 a:hover {
          color: #0d5353;
@@ -21,7 +21,7 @@
       #psevdo1 a:visited {
          color: #333333;
          text-decoration: none;
-         border-bottom: thin dotted;
+         border-bottom: thin dotted OrangeRed;
       }
  #psevdo1 a:focus {
     color: green;
