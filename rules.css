@@ -3,6 +3,7 @@
 }
 #shapka h1 {
   border: 6px dashed black;
+  background-color: black;
   padding: 10px;
   background-image: url(Images/danger.png);
   background-size: cover, contain;
