@@ -4,7 +4,7 @@
 #shapka h1 {
   border: 6px dashed black;
   padding: 10px;
-  background-image: url(Images/danger.jpg);
+  background-image: url(Images/danger.png);
   background-size: cover, contain;
 }
 
@@ -46,7 +46,7 @@ h2 {
        margin-right: 10%;
        border: 6px double black;
        border-style: solid;
-       background-image: url(Images/danger.jpg);
+       background-image: url(Images/danger.png);
        font-size: medium;
        background-size: contain;
        background-size: cover;
