@@ -42,8 +42,8 @@ h2 {
 
   body {
        background-color: Yellow;
-       margin-left: 10%;
-       margin-right: 10%;
+       margin-left: auto;
+       margin-right: auto;
        border: 6px double black;
        border-style: solid;
        background-image: url(Images/danger.png);
