@@ -50,6 +50,7 @@ h2 {
        font-size: medium;
        background-size: contain;
        background-size: cover;
+       clear: right;
        
       }
        p { 
