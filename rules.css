@@ -7,6 +7,9 @@
   background-color: black;
   background-size: cover, contain;
 }
+#layer1, #layer2 {
+    position: relative; 
+   } 
 #layer1 {
     font-size: 50px;
     color: #000080;
