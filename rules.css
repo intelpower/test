@@ -14,8 +14,8 @@
    #layer1 { z-index: 2; }
    #layer2 { z-index: 1; }
 #layer2 {
-    top: -55px; 
-    left: 5px; 
+    top: -60px; 
+    left: 10px; 
     color: #ffa500; 
     font-size:70px; 
   }
