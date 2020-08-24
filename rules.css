@@ -7,7 +7,17 @@
   background-color: black;
   background-size: cover, contain;
 }
-
+#layer1 {
+    font-size: 50px;
+    color: #000080;
+   #layer1 { z-index: 2; }
+   #layer2 { z-index: 1; }
+#layer2 {
+    top: -55px; 
+    left: 5px; 
+    color: #ffa500; 
+    font-size:70px; 
+  }
 #psevdo1 a:link {
      color:#007e7e;
      text-decoration: none;
