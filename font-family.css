@@ -1,3 +1,13 @@
+@font-face {
+    font-family: 'The-Black-Bloc';
+    src:url('The-Black-Bloc.ttf.woff') format('woff'),
+        url('The-Black-Bloc.ttf.svg#The-Black-Bloc') format('svg'),
+        url('The-Black-Bloc.ttf.eot'),
+        url('The-Black-Bloc.ttf.eot?#iefix') format('embedded-opentype'); 
+    font-weight: normal;
+    font-style: normal;
+}
+
 body {
      font-family: 'The-Black-Bloc';
 }
